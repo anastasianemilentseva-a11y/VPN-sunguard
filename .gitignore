@@ -4,3 +4,8 @@
 *.key
 *.ovpn
 .env
+
+# База бота и служебное
+*.sqlite3
+__pycache__/
+.venv/
