@@ -1,0 +1,6 @@
+# Секреты VPN — никогда не в git
+*.conf
+*.pem
+*.key
+*.ovpn
+.env
